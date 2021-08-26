@@ -1,7 +1,11 @@
 ### Hi there 👋 
   My name is David and i am a student of Computer Science at UFAL and IT Intern at SEFAZ-AL.
 - 🌱 I’m currently learning about Game Development, Artificial Intelligence and Computer Vision.
-- 📫 How to reach me: via email.
+- 📫 How to reach me: via email(ds.alexandre.p@gmail.com).
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DavidAlexandreTS)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-alexandre-08486a153/)
 <!--
 **DavidAlexandreTS/DavidAlexandreTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
