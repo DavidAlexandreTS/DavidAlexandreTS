@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is David and i am a student of Computer Science at UFAL and IT Intern at SEFAZ-AL.
 
 <!--
 **DavidAlexandreTS/DavidAlexandreTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
