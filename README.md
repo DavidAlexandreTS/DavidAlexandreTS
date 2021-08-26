@@ -1,7 +1,7 @@
 ### Hi there 👋 
   My name is David and i am a student of Computer Science at UFAL and IT Intern at SEFAZ-AL.
-- 🔭 I’m currently working on ...
-
+- 🌱 I’m currently learning about Game Development, Artificial Intelligence and Computer Vision.
+- 📫 How to reach me: via email.
 <!--
 **DavidAlexandreTS/DavidAlexandreTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
