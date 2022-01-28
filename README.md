@@ -1,5 +1,5 @@
 ### Hi there 👋 
-  My name is David and i am a student of Computer Science at UFAL and IT Intern at SEFAZ-AL.
+  My name is David and i am a student of Computer Science at UFAL and Game Developer.
 - 🌱 I’m currently learning about Game Development, Artificial Intelligence and Computer Vision.
 - 📫 How to reach me: via email.
 
