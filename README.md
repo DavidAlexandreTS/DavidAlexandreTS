@@ -16,7 +16,7 @@
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidAlexandreTS&theme=react-dark)
 
 <p align=midlle>
-    <a href = "mailto:dsa@ic.ufal.br?subject=Olá,%20David!%20" title="E-mail">
+    <a href = "mailto:ds.alexandre.p@gmail.com?subject=Olá,%20David!%20" title="E-mail">
         <img height=25 align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dsa@ic.ufal.br?subject=Olá,%20David!%20">
     </a>
     <a href = "https://www.linkedin.com/in/david-alexandre-08486a153/" title="linkedin">
