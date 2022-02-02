@@ -1,6 +1,6 @@
 ### Hi there 👋 
-  My name is David and i am a student of Computer Science at UFAL and Game Developer.
-- 🌱 I’m currently learning about Game Development, Artificial Intelligence and Computer Vision.
+  My name is David and i am a student of Computer Science at UFAL and Software Developer.
+- 🌱 I’m currently learning about Data Science, Machine Learning and Computer Vision.
 - 📫 How to reach me: via email.
 
 ### My Github's statitics
