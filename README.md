@@ -1,5 +1,5 @@
 ### Hi there 👋 
-  My name is David and i am a student of Computer Science at UFAL and Software Developer.
+  My name is David and I am a student of Computer Science at UFAL and Software Developer.
 - 🌱 I’m currently learning about Data Science, Machine Learning and Computer Vision.
 - 📫 How to reach me: via email.
 
