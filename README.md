@@ -1,5 +1,5 @@
 ### Hi there 👋 
-  My name is David and I am a student of Computer Science at UFAL and Data Scientist/Machine Learning Engineer.
+  My name is David, I have a bachelor degree in Computer Science and currently work as a Data Scientist/Machine Learning Engineer.
 - 🌱 I’m currently learning about Data Science, Machine Learning and Computer Vision.
 - 📫 How to reach me: via email.
 
