@@ -4,6 +4,7 @@ My name is David, I have a bachelor degree in Computer Science and currently wor
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-alexandre-08486a153/)
+<br />
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AleatoriodaSilva)
 <br />
 
@@ -19,6 +20,7 @@ My name is David, I have a bachelor degree in Computer Science and currently wor
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br />
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
