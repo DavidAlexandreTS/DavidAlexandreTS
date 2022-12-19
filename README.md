@@ -20,7 +20,7 @@ My name is David, I have a bachelor degree in Computer Science and currently wor
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
 <br />
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
