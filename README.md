@@ -1,3 +1,5 @@
+### 😋 About me:
+
 Hey there 👋
 <br />
 My name is David, I have a bachelor degree in Computer Science and currently work as a Data Scientist.
