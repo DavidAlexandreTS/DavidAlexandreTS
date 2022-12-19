@@ -16,11 +16,10 @@ My name is David, I have a bachelor degree in Computer Science and currently wor
 
 ### 🛠️ Tech Stack:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br />
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
