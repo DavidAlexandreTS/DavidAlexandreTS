@@ -8,6 +8,7 @@ My name is David, I have a bachelor degree in Computer Science and currently wor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-alexandre-08486a153/)
 <br />
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AleatoriodaSilva)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AleatoriodaSilva)
 <br />
 
 - 👩🏻‍💻 I'm currently researching Machine Learning and Computer Vision, specifically on topics such as creating/evaluating ML models and with regard to Computer Vision: Object Detection, Convolutional Neural Networks and Digital Image Processing
