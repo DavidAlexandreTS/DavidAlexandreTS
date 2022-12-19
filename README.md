@@ -1,40 +1,41 @@
-### Hi there 👋 
-  My name is David, I have a bachelor degree in Computer Science and currently work as a Data Scientist/Machine Learning Engineer.
-- 🌱 I’m currently learning about Data Science, Machine Learning and Computer Vision.
-- 📫 How to reach me: via email.
+Hey there 👋 
+My name is David, I have a bachelor degree in Computer Science and currently work as a Data Scientist.
+<br />
 
-### My Github's statitics
-<p align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DavidAlexandreTS&count_private=true&show_icons=true&theme=react">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlexandreTS&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-alexandre-08486a153/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AleatoriodaSilva)
+<br />
+
+- 👩🏻‍💻 I'm currently researching Machine Learning and Computer Vision, specifically on topics such as creating/evaluating ML models and with regard to Computer Vision: Object Detection, Convolutional Neural Networks and Digital Image Processing
+- 🌱 I’m currently learning Data Science and Computer Vision concepts
+- 💬 Ask me about computer vision, data science or data analysis
+- 😄 In my free time, I like to play World of Warcraft and work as Game Dev
+
+
+### 🛠️ Tech Stack:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=scikit-learn)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o6ZsY7rxHv9IqVbEc/giphy.gif" />
 </p>
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidAlexandreTS&theme=react-dark)
-
-<p align=midlle>
-    <a href = "mailto:ds.alexandre.p@gmail.com?subject=Olá,%20David!%20" title="E-mail">
-        <img height=25 align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dsa@ic.ufal.br?subject=Olá,%20David!%20">
-    </a>
-    <a href = "https://www.linkedin.com/in/david-alexandre-08486a153/" title="linkedin">
-        <img height=25 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</p>
-<!--
-**DavidAlexandreTS/DavidAlexandreTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
