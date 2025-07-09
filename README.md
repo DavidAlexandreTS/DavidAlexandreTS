@@ -2,7 +2,7 @@
 
 Hey there 👋
 <br />
-My name is David, I have a bachelor degree in Computer Science and currently work as a Data Scientist.
+My name is David, Im a master's degree student in Computer Science and currently im working as a Data Scientist.
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-alexandre-08486a153/)
@@ -11,7 +11,7 @@ My name is David, I have a bachelor degree in Computer Science and currently wor
 <br />
 
 - 👩🏻‍💻 I'm currently researching Machine Learning and Computer Vision, specifically on topics such as creating/evaluating ML models and with regard to Computer Vision: Object Detection, Convolutional Neural Networks and Digital Image Processing
-- 🌱 I’m currently learning Data Science and Computer Vision concepts
+- 🌱 I’m currently learning Data Science and Unreal Engine concepts
 - 💬 Ask me about computer vision, data science or data analysis
 - 😄 In my free time, I like to play World of Warcraft and work as Game Dev
 
