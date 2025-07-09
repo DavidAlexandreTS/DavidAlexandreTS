@@ -10,10 +10,10 @@ My name is David, Im a master's degree student in Computer Science and currently
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AleatoriodaSilva)
 <br />
 
-- 👩🏻‍💻 I'm currently researching Machine Learning and Computer Vision, specifically on topics such as creating/evaluating ML models and with regard to Computer Vision: Object Detection, Convolutional Neural Networks and Digital Image Processing
-- 🌱 I’m currently learning Data Science and Unreal Engine concepts
-- 💬 Ask me about computer vision, data science or data analysis
-- 😄 In my free time, I like to play World of Warcraft and work as Game Dev
+- 👩🏻‍💻 I'm currently researching Virtual Humans, Virtual Reality, and Emotion Perception, with a focus on Unreal Engine and related technologies
+- 🌱 I’m currently learning Data Science, Unreal Engine concepts, and foveated rendering
+- 💬 Ask me about Unreal Engine, data science, or data analysis
+- 😄 In my free time, I like to play World of Warcraft and work as a Game Developer
 
 
 ### 🛠️ Tech Stack:
